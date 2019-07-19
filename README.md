@@ -107,7 +107,7 @@ node all![在这里插入图片描述](https://img-blog.csdnimg.cn/2019010810263
 
 参考笔记：
 
-VINS论文推导及代码解析 by 崔华坤
+[VINS论文推导及代码解析](https://github.com/StevenCui/VIO-Doc) by 崔华坤
 
 [VINS技术路线与代码详解](https://blog.csdn.net/wangshuailpp/article/details/78461171) by 五行缺帅wangshuailpp
 
