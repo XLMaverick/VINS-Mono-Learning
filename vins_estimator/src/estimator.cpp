@@ -208,7 +208,7 @@ void Estimator::processImage(const map<int, vector<pair<int, Eigen::Matrix<doubl
                 last_R0 = Rs[0];
                 last_P0 = Ps[0];
                 
-            }
+            }//testyongli 
             else
                 slideWindow();//初始化失败则直接滑动窗口
         }
